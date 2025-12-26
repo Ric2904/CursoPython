@@ -1,0 +1,9 @@
+# Configuración de PyCharm / IntelliJ
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
